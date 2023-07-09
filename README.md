@@ -1,1 +1,1 @@
-Sale Prediction from Existing Customer Logistic Regression
+Sale Prediction from Existing Customer using Logistic Regression
